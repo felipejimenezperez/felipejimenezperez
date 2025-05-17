@@ -1,5 +1,4 @@
-# 🏢 Running AZ Tech - Software Solutions Company
-[Visit AZ Tech](https://aztechnologies.web.app/)
+# 🏢 [Portfolio: AZ Tech - Software Solutions](https://aztechnologies.web.app/)
 
 <!--
 **felipejimenezperez/felipejimenezperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
